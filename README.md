@@ -3,7 +3,6 @@
 ## Jeg er Andreas
 
 💻 Jeg lærer og bygger prosjekter innen programmering, for øyeblikket hovedsaklig i JS
-⚙️ Interessert i ren kode
 🚀 Jobber med å forbedre ferdighetene mine hver dag
 
 ---
@@ -30,7 +29,7 @@ Her er noen ting jeg har jobbet med:
 
 * Bli bedre i JavaScript
 * Bygge ekte prosjekter
-* Bidra til open source
+
 
 ---
 
