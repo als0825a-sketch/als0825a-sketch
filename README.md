@@ -2,12 +2,12 @@
 
 ## Mitt navn er Andreas
 
-💻 Jeg lærer og bygger prosjekter innen programmering, for øyeblikket hovedsaklig i JS
-🚀 Jobber med å forbedre ferdighetene mine hver dag
+ Jeg lærer og bygger prosjekter innen programmering, for øyeblikket hovedsaklig i JS
+ Jobber med å forbedre ferdighetene mine hver dag
 
 ---
 
-## 🛠️ Teknologi & verktøy
+## Teknologi & verktøy
 
 * JavaScript
 * HTML & CSS
@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Prosjekter
+##  Prosjekter
 
 Her er noen ting jeg har jobbet med:
 
