@@ -19,9 +19,9 @@
 
 Her er noen ting jeg har jobbet med:
 
-* 🎮 JavaScript-GameEngine
-* 🧠 Øvingsprosjekter og eksperimenter
-* 🔧 Lære-gjennom-å-gjøre kode
+*  JavaScript-GameEngine
+*  Øvingsprosjekter og eksperimenter
+*  Scrimba
 
 ---
 
