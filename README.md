@@ -25,7 +25,7 @@ Her er noen ting jeg har jobbet med:
 
 ---
 
-## 📈 Mål
+## Mål
 
 * Bli bedre i JavaScript
 * Bygge ekte prosjekter
@@ -36,7 +36,7 @@ Her er noen ting jeg har jobbet med:
 ## 📫 Kontakt
 
 * GitHub: als0825a-sketch
-* Email: als0825a@gmail.com
+* Email: andreas-boyen@hotmail.com
 
 ---
 
