@@ -12,6 +12,7 @@
 * JavaScript
 * HTML & CSS
 * React
+* Node
 
 ---
 
