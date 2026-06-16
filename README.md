@@ -34,12 +34,9 @@ Her er noen ting jeg har jobbet med:
 
 ---
 
-## 📫 Kontakt
+## Kontakt
 
 * GitHub: als0825a-sketch
 * Email: andreas-boyen@hotmail.com
 
----
-
-Takk for at du tok turen innom!
 
